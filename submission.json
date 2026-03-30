@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal but physically plausible architectural scene: two separate staircases on either side both clearly ascend upward, with people walking up them. These staircases gradually merge into a single central staircase that unexpectedly descends downward, with people moving along it. The transition is smooth and continuous, creating a visually contradictory structure. Realistic materials, soft natural lighting, no text, no symbols, no diagrams. The scene should feel like a real place but logically impossible, evoking unease and contradiction.",
+  "model": "Ideogram 2",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Two separate upward staircases represent positive trends in subgroups, but when merged they form a downward path, representing reversal in the combined data."
+}
